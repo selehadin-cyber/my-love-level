@@ -65,7 +65,7 @@ export default function HomePage() {
             <MyLoveGraph />
             <footer className='absolute bottom-2 text-gray-700'>
               © {new Date().getFullYear()}{' '}
-              <UnderlineLink href='https://theodorusclarence.com?ref=tsnextstarter'>
+              <UnderlineLink href='https://selehadin.com/'>
                 Made with Ihsan by yours truly
               </UnderlineLink>
             </footer>
